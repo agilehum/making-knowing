@@ -207,23 +207,23 @@ As is mentioned above, this was a major challenge for me personally. I felt thei
 
 So my uncle brought me a ton of Rosehips all the way from Rhode Island but they didn't get here until yesterday.
 
-[[image:20140911_183416.jpg width="434" height="253"]][[image:20140911_175016.jpg width="449" height="258"]]
+![](images/20140911_183416.jpg)
 
 I still had some dough left over from the first batch we had made, so I just thought, what the heck. Let's see how different this thing turns out when you're using the real deal.
 
 I washed and de-seeded 50 rosehips...
 
-[[image:20140911_175027.jpg width="427" height="242"]][[image:20140911_183420.jpg width="432" height="249"]]
+![](images/20140911_175027.jpg)
 
 ...which turned out to be a bit of a pain - those little guys are FULL of seeds, and if they are too ripe, the whole thing will literally just squish together in your hand as you try to scoop them out, seeds included. But supposedly they're not truly ripe until they are soft to the touch, so a delicate balance had to be struck - they really needed to be in a pretty perfect state of ripeness to be useful for this tart. If they were small, I left them in halves, but if they were larger, I cut them in quarters. This also assisted in the de-seeding process, as it was easier to remove the seeds sometimes when they were in smaller pieces, because they were easier to reach.
 
 50 still would not have been enough to fill a tarte pan like the one we used for our first try last time - I probably would have needed to do around 75-100, but since I had decided to make this one freehand, I thought what I had would be enough. I used the same proportion of sugar (2/3 c.) and ginger (3tsp) as last time, but I had thought the last batch too cinnamon-y, so I only used 1 tsp. cinnamon.
 
-[[image:20140911_183408.jpg width="426" height="248"]][[image:20140911_184302.jpg width="434" height="246"]]
+![](images/20140911_183408.jpg)
 
 I'm interested to see how the sweetness turns out, given that it really seemed like a lot of sugar, and also whether it is too spicey, as it smelled very strongly of ginger. I wonder how the taste of the fresh fruit will change the otherwise (mostly) the same ratios of ingredients.
 
-[[image:20140911_184425.jpg width="423" height="246"]] [[image:20140911_192159.jpg width="430" height="244"]]
+![](images/20140911_184425.jpg)
 
 OK, so as the tarte cooked up, the most wonderful smell arose from the oven and I peeked in to see the liquid from the filling leaking over the side of the tarte and carmelizing in the pan. This dish looks immeasurably more appealing than the last tartes we made, and I am very excited to try it out. I cooked it for 33 minutes, until the crust was hard when I tapped it gently with my nail, and just beginning to brown.
 
