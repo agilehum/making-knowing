@@ -1,6 +1,9 @@
-=Boyd - Field Notes - Tarte of Hippes (I and II)= 
-[[toc]]
-==9/3/14 - Boyd - Hippes== 
+---
+author: Boyd
+title: Field Notes - Tarte of Hippes (I and II)
+---
+
+# 9/3/14 - Boyd - Hippes
 ==<span style="font-size: 13px;">Here are some sites that I referred to in establishing what Rosehips are and also where to find them:</span>== 
 http://nonabrooklyn.com/foraging-brooklyn-everythings-coming-up-rose-hips/
 http://wildandslow.com/wp-content/uploads/2011/03/WILD_ROSE_HIP_FINAL2.pdf
