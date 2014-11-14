@@ -5,15 +5,11 @@ title: Field Notes - Wax Molding and Sand Casting Reconstruction
 
 #Day by Day Entries#
 
-## 170900-1300 Oct 14 - Columbia University, Chandler Hall Rm. 260 - Manhattan, NY##
-
-###Finishing the Medals###
+##Oct 14 - Finishing the Medals##
 
 ![text](http://upload.wikimedia.org/wikipedia/commons/b/b7/Elck_by_Pieter_Bruegel_the_Elder_1558.jpg)
 
-## 160900-1300 Oct 14 - Ubaldo Vitali's Workshop, 188-190 Hilton Avenue, Maplewood, NJ 07040 ##
-
-### Pouring the Molds ###
+##Oct 14 - Pouring the Molds ##
 
 * Conditions: 
   * The weather was temperate and had no
@@ -25,8 +21,7 @@ title: Field Notes - Wax Molding and Sand Casting Reconstruction
   * Foundry: 
 
 
-##10-15 Oct 14 - Columbia University, Chandler Hall Rm. 260 - Manhattan, NY##
-### Making the Mold Casting ###
+##Oct 14 - Making the Mold Casting ###
 
 * Conditions:
   * Lab conditions, approx. 72°, no air movement, average humidity.
