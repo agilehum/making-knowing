@@ -9,8 +9,7 @@ title: Field Notes - Wax Molding and Sand Casting Reconstruction
 
 ###Finishing the Medals###
 
-
-![text](http://commons.wikimedia.org/wiki/Pieter_Bruegel_(I)#mediaviewer/File:Alchimist_Pieter_Bruegel.jpeg) 
+![text](http://upload.wikimedia.org/wikipedia/commons/b/b7/Elck_by_Pieter_Bruegel_the_Elder_1558.jpg)
 
 ## 160900-1300 Oct 14 - Ubaldo Vitali's Workshop, 188-190 Hilton Avenue, Maplewood, NJ 07040 ##
 
@@ -62,29 +61,21 @@ title: Field Notes - Wax Molding and Sand Casting Reconstruction
 
   * The spoon quickly became tedious was discarded for mixing with my hands. Fingers are more efficient tools for breaking up the clumps that formed in the dirt. Eventually the mixture was judged to be dry enough to be placed in the box mold.
 
-![text](IMG_1644.jpg) ![text](IMG_1646.jpg)
+![text](https://raw.githubusercontent.com/xpmethod/making-knowing/master/images/20140911_175016.jpg)
 
   * We dusted the face of the medallion with ground vine charcoal and placed it float on the counter in the center of the female portion of the flask and filled it slowly with sand. The back of the plaster medallion was not completely flush with the surface of the counter and this gave me cause for concern. I knew that the mold had broken in the clay earlier and I was worried this would happen again. When we filled the mold with sand the we had to press it firmly on to the medallion, but we tried to take care that this was not enough to break the plaster mold.
 
   * We packed the mold with sand and used the mallet and the espresso pounder to even it out. The excess was removed with a knife and an improvised leveling tool (pictured below in the bottom third of the photo) and returned to the mixing bowl. During the process of pounding and scraping, a relatively large amount of water was emerging from the sand. We believe that this is due to water that was trapped in the sand succumbing to the pounding.
 
-![image](IMG_1648.jpg)
-
   * We were again advised by Tony that the mixture was too wet and we added more dry sand to the outside of the mold to draw out the moisture.
 
-![text](IMG_1647.jpg)
-
   * Once this was completed the mold was lifted from the counter with a twisting motion in the hopes of cleanly releasing the medallion and the sand. This proved to be successful. At Tony's direction, small amount of the sand around the edge of the medallion was removed to aid in removing the plaster cast of the medallion later. The sand surrounding the medallion was then dusted with another thin layer of ground charcoal.
-
-![text](IMG_1652.jpg)
 
   * The male portion of the flask was set in place and the remainder of the mold was filled with sand. When the mold was almost full we found that we did not have enough sand. More sand was mixed, in haste, as the lab had to close in a short amount of time. The takeaway is that estimating the amount of sand required to fill the molds is deceptive. It is better to over estimate how much sand you need. A small mold can hold a lot of sand, even though it looks like it cannot. The mold was pounded and shaved and placed in the vapor hood to allow it to dry.
 
 ## Discussion on Procedure (14 Oct 14) ##
 
 * At approximately 1030, I arrived at the lab and found that my medallion had already been removed from its mold. I unfortunetly was not there to record the procedure, but I was informed that it had broken upon removal.
-
-![text](IMG_1653.jpg)
 
 * I could not tell if the image was distorted. The granular nature of the sand and its texture really obscured the image from the eye. I thought about what Dr. Smith had told us about her past experiences with molding, that being that molds often do not look like they have held the detail but turn out that they have. I hoped that this was true in our case. After inspecting the mold they were packed in boxes to be carried to the workshop the next day. 
 
@@ -93,6 +84,3 @@ title: Field Notes - Wax Molding and Sand Casting Reconstruction
 * Working with the commercial sand was simple and direct. It was firm when packed and malleable when lose. The oil in the sand left very little residue on hands and tools, yet held the sand together enough that it could be packed. It took the impression of the medallion almost flawlessly, and released the plaster casting very easily. The sand was finely ground, way more finely ground than our EM sand. 
 
 * The time it took to make the mold was significantly less as well. The mold was packed in the same manner are the medallion above and ground vine charcoal was used as a separation agent. 
-
-![text](image:IMG_1655.JPG) ![text](IMG_1654.JPG)
-
