@@ -1,5 +1,5 @@
 ---
-layout: making-knowing
+layout: field-notes
 ---
 
-testing making knowing
+testing field notes
