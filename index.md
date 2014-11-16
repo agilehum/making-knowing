@@ -5,7 +5,7 @@ layout: default
 Following our [encounter on 11/14/204](http://xpmethod.plaintext.in/events/public-discourse/pamela-smith.html) we understand the challenge Making and Knowing project to be as follows:
 
 1. Manuscript and parallel translation files exist in a closed and proprietary ecosystem that lacks proper access controls, collaboration tools, and versioning.
-2. Student field notes and recipes are poorly organized in a closed ecosystem that might not scale as the project grows.
+2. Student field notes and recipes are difficult to organize and present in a closed ecosystem that might not scale as the project grows.
 3. Images, videos, and other supplementary materials are archived in yet a third closed ecosystem, which does not answer to scholarly standards of sharing and preservation.
 
 In thinking of creative ways to address these concerns we are guided by the following several principles:
