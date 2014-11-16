@@ -1,15 +1,15 @@
 ---
 author: Jef Palframan
-title: Field Notes - Wax Molding and Sand Casting Reconstruction
+title: Wax Molding and Sand Casting Reconstruction
 ---
 
-#Day by Day Entries#
+#### Day by Day Entries
 
-##Oct 14 - Finishing the Medals##
+##### Oct 14 - Finishing the Medals
 
 ![text](http://upload.wikimedia.org/wikipedia/commons/b/b7/Elck_by_Pieter_Bruegel_the_Elder_1558.jpg)
 
-##Oct 14 - Pouring the Molds ##
+### Oct 14 - Pouring the Molds ##
 
 * Conditions: 
   * The weather was temperate and had no
