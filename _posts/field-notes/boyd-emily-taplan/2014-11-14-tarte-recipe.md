@@ -1,9 +1,9 @@
 ---
 author: Emily Taplan Boyd
-title: Field Notes - Tarte of Hippes (I and II)
+title: Tarte of Hippes
 ---
 
-# 9/3/14 - Boyd - Hippes
+### 9/3/14 - Boyd - Hippes
 
 Here are some sites that I referred to in establishing what Rosehips are and also where to find them:
 
@@ -14,57 +14,57 @@ Here are some sites that I referred to in establishing what Rosehips are and als
 - <http://www.backwoodshome.com/articles2/butler95.html
 - <http://www.gardeningblog.net/how-to-grow/rose-hips>
 
-# 9/3/14 - Boyd - Hippes 
+### 9/3/14 - Boyd - Hippes 
 
 Posted on facebook to see if anyone knows where to find Rosehips. Also ordered some dried on Amazon.com in case they cannot be found in the flesh.
 
 Here is a link on how to reconstitute them: <http://www.livestrong.com/article/556109-how-to-reconstitute-dried-fruit/>
 
-# 9/5/14 - Boyd - Hippes 
+### 9/5/14 - Boyd - Hippes 
 
 Just got a text message from someone that they saw some rosehips growing in Queens. Heading out tomorrow to see if they are ripe and if they will be enough to use.
 
-# 9/6/14 - Boyd - Hippes 
+### 9/6/14 - Boyd - Hippes 
 
 Just went to 46th Street in Queens to look for Rosehips. Saw two different varieties that sadly were not ripe :(
 
-# 9/7/14 - Boyd - Hippes 
+### 9/7/14 - Boyd - Hippes 
 
 My uncle also messaged me that he can bring some rosehips back from his weekend trip, but they will not arrive until Tuesday morning, too late to cook with.
 
-# 9/8/14 - Boyd - Hippes 
+### 9/8/14 - Boyd - Hippes 
 
 **Think carefully about the ingredients. Are these analogous to modern ingredients? How are they similar or different? What about their purity? Were they exotic or common?**
 
-## Rosehips
+### Rosehips
 
 My personal experience searching for them and speaking to other modern American people about them has taught me that you can find rosehips growing lots of places, particularly if you live in a rural location, so they are definitely also a modern ingredient. However they are not really a huge flavor in the modern American palate, and therefore are difficult to locate in a city; and also seasonal, with several sites (links above) mentioning that they are at their ripest after the first frost. Interestingly the only people writing about Rosehips seemed to be not academics but holistic medicine people, foragers, etc. The seasonal nature of the hips proved the greatest challenge to our locating edible ones - the ones we found when we went foraging simply were not ripe enough to be used. Others in other places appear to be ripe, but were impossible to acquire on our time frame. Dried rosehips most certainly would have been around in the 1580's as well, but our recipe clearly called for fresh ones so in that sense our ingredients were quite different than what this particular recipe required. This was a MAJOR OBSTACLE in our ability to create a faithful reconstruction - cooking with fresh rather than dried fruit is a totally different experience. Because we were reconstituting dried rosehips, the reconstitution process involved cooking them in hot water and we ended up with a kind of Rosehip goo (very much like a jelly or jam but not quite, which is why the term I've settled on is goo) that ended up making our Tarte quite like a jam tart, and I am not at all convinced that this is what the recipe intended. I suspect that if we had been able to source fresh rosehips, the tarte really would have been more like an apple tarte.
 
-## Sugar
+### Sugar
 
 At the time, sugar would have been sold in blocks, but it still would have been refined and white. Would the block shape and grating off the block ourselves make a difference for this particular recipe? Since all our sugar was combined with liquids, I don't really think so. Perhaps the processing of the Domino's sugar we used might have some effect, but it's hard to tell since most organic companies today are focusing on brown and Demerera sugar production.
 
 <http://www.oldandinteresting.com/sugar-nippers.aspx>
 
-## Ginger & Cinnamon
+### Ginger & Cinnamon
 
 Would these have been sold powdered or dried? Would the ginger have been fresh? Since ginger is not local to England and today is mostly produced in Asia and South America, we assumed it would have been imported and therefore not fresh. However we could not locate dried ginger in any other than powdered form. The cinnamon we grated ourselves using a nutmeg grater and cinnnamon stick. Incidentally, as is described in Jef's notes in further details, we also became convinced that nutmeg was called for in the recipe and sourced and grated our own nutmeg.
 
 <http://www.nhm.ac.uk/nature-online/life/plants-fungi/seeds-of-trade/page.dsml?section=regions> [accessed 8 Sep 14]
 
-# Flour
+### Flour
 
 Jef bought a specialty stone milled flour from Eataly from "Wild Hive Farm," a micromill where, according to their packaging, they "stone grind locally grown and organic grains in small batches". We figured that was probably the closest we could get, lacking Elizabethan-style grinding tools of our own.
 
-## Eggs
+### Eggs
 
 We used Heirloom eggs from free-range chickens, hormone and anti-biotic free. But we bought them in a store. Definitely not as fresh as the kind an Elizabethan would be working with. Neither of us had time to go to a Farmer's Market for farm fresh eggs.
 
-## Butter
+### Butter
 
 Did Elizabethans salt their butter? Unclear. We used salted butter because it was impossible to buy a small quantity of unsalted butter and we were running out of funds.
 
-## Water
+### Water
 
 The "paste" recipe called for cold water. Modern tart dough usually uses even ice water. But how cold could Elizabethans even make their water? Certainly not ice-y cold. Fresh from the well? Probably that was pretty cold. How could we truly know without having access to an Elizabethan-style water well, which we don't? Even then, who is to say water is running beneath the well at the same temperature as it was back then? We went with the coldest water that runs from my tap.
 
@@ -92,7 +92,7 @@ As the main "baker" on this project, I do have to say that it was VERY difficult
 
 The "Gellipot" - I think it's very important to note that I believe this recipe actually contains TWO recipes. The first part refers to the making of a Rosehip Tart, and the second part, beginning with "So..." denotes what to do with the leftover filling in order to preserve it for future use. Really the recipe is for a rosehip tart, and a kind of rosehip preserves. Or at least that is the only way I can find to make sense of the latter half of the recipe.
 
-# Our new recipe: Rosehip Tart, Two Ways
+### Our new recipe: Rosehip Tart, Two Ways
 
 **Equipment:**
 
@@ -165,7 +165,7 @@ Add sugar and spices and mix into the hip goop. Scoop filling into crust as desc
 
 # Boyd - Hippes - 9/9/14
 
-## Analysis of project based on in-class template
+### Analysis of project based on in-class template
 
 **Purpose: knowing your goal: why do this particular reconstruction? For what level of authenticity are we striving?**
 
@@ -201,9 +201,9 @@ See above. Also Jef recorded some of our observations regarding our surprise, up
 
 As is mentioned above, this was a major challenge for me personally. I felt their was a great tension between the recipe's lack of specific metrics, and my contemporary expectations. What instinct can I rely on to figure out how much spices to use - whether to use a floured surface when rolling out the dough when none is called for, etc., other than my own? But my own understanding of baking is a undeniably a contemporary one. This creates a kind of paradox. The recipe was clearly written for someone who already has an understanding of certain tastes and concepts. I have my own understanding of certain tastes and concepts of baking - but is it appropriate to rely on my understanding, given the fact that I'm 400+ years removed from the person who wrote the recipe? How much has changed? We literally cannot know.
 
-# Boyd - Field Notes - Tarte of Hippes (III)
+### Boyd - Field Notes - Tarte of Hippes (III)
 
-## Boyd - Hippes - 9/11/14 
+### Boyd - Hippes - 9/11/14 
 
 So my uncle brought me a ton of Rosehips all the way from Rhode Island but they didn't get here until yesterday.
 
@@ -227,7 +227,7 @@ I'm interested to see how the sweetness turns out, given that it really seemed l
 
 OK, so as the tarte cooked up, the most wonderful smell arose from the oven and I peeked in to see the liquid from the filling leaking over the side of the tarte and carmelizing in the pan. This dish looks immeasurably more appealing than the last tartes we made, and I am very excited to try it out. I cooked it for 33 minutes, until the crust was hard when I tapped it gently with my nail, and just beginning to brown.
 
-## Final Fresh Rosehip Tarte Recipe
+### Final Fresh Rosehip Tarte Recipe
 
 Follow dough making instructions as above.
 

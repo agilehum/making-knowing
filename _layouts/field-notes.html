@@ -4,13 +4,12 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Making & Knowing Prototype</title>
-    <link rel="stylesheet" href="{{site.url}}/public/css/foundation.css" />
+    <link rel="stylesheet" href="{{site.url}}public/css/foundation.css" />
   </head>
   <body>
-    
     <div class="row">
       <div class="large-12 columns">
-        <h1>Making & Knowing Prototype</h1>
+        <h1><a href="{{ site.url }}" style="text-decoration: none; color: black;">Making & Knowing Prototype</a></h1>
         <a href="manuscript.html" class="small radius button">Manuscript</a>
         <a href="field-notes.html" class="small radius button">Field Notebook</a>
       </div>
@@ -25,43 +24,18 @@
 
     <div class="row">
       <div class="large-8 medium-8 columns">
-        <h5>Here&rsquo;s your basic grid:</h5>
-        <!-- Grid Example -->
 
+    <!-- recipe cards -->
+    <!-- recipe cards -->
+    <!-- recipe cards -->
+    {% for post in site.posts %}
         <div class="row">
-          <div class="large-12 columns">
-            <div class="callout panel">
-              <p><strong>This is a twelve column section in a row.</strong> Each of these includes a div.panel element so you can see where the columns are - it's not required at all for the grid.</p>
-            </div>
-          </div>
-        </div>
-        <div class="row">
-          <div class="large-6 medium-6 columns">
-            <div class="callout panel">
-              <p>Six columns</p>
-            </div>
-          </div>
-          <div class="large-6 medium-6 columns">
-            <div class="callout panel">
-              <p>Six columns</p>
-            </div>
-          </div>
-        </div>
-        <div class="row">
-          <div class="large-4 medium-4 small-4 columns">
-            <div class="callout panel">
-              <p>Four columns</p>
-            </div>
-          </div>
-          <div class="large-4 medium-4 small-4 columns">
-            <div class="callout panel">
-              <p>Four columns</p>
-            </div>
-          </div>
-          <div class="large-4 medium-4 small-4 columns">
-            <div class="callout panel">
-              <p>Four columns</p>
-            </div>
+        <div class="large-12 columns">
+        <div class="callout panel">
+            <h3><a href="{{post.url}}">{{ post.title }}</a> by {{ post.author }}</h3></hr>
+            {{ post.content | markdownify | truncatewords: 75 }}
+        </div></div></div>
+    {% endfor %}
           </div>
         </div>
         </div>
