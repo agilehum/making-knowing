@@ -27,16 +27,12 @@
     <!-- recipe cards -->
     {% for post in site.posts %}
         <div class="row">
-        <div class="large-12">
-        <div class="callout panel">
+        <div class="large-12 columns">
+        <div class="panel">
             <h3><a href="{{site.url}}{{post.url}}">{{ post.title }}</a> by {{ post.author }}</h3></hr>
             {{ post.content | markdownify | truncatewords: 75 }}
         </div></div></div>
     {% endfor %}
-          </div>
-        </div>
-        </div>
-      </div>
-    </div>
-  </body>
+    </div></div></div></div>
+</body>
 </html>
