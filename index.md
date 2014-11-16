@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Following our [encounter on 11/14/204](http://xpmethod.plaintext.in/events/public-discourse/pamela-smith.html) we understand the challenge Making and Knowing project to be as follows:
+Following our [encounter on 11/14/204](http://xpmethod.plaintext.in/events/public-discourse/pamela-smith.html) we understand the challenges facing Making and Knowing project to be as follows:
 
 1. Manuscript and parallel translation files exist in a closed and proprietary ecosystem that lacks proper access controls, collaboration tools, and versioning.
 2. Student field notes and recipes are difficult to organize and present in a closed ecosystem that might not scale as the project grows.
