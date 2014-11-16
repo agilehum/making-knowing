@@ -22,4 +22,4 @@ c. To train project moderators in the usage of these tools.
 
 In comparison to the existing platforms, our approach has the significant advantage of long-term sustainability: scalability, unified backup and versioning workflows, resilience to bit decay and editorial conflict, and powerful collaboration tools. Most importantly, it is easy to imagine building textual interfaces, critical editions, and online resources to make this rapidly growing archive more accessible to the public.
 
-To test the viability of our ides we created a [GitHub repository](https://github.com/xpmethod/making-knowing) containing several manuscript pages and field notes along with mock-ups for manuscript and field notebook pages.
+To test the viability of our ideas we created a [GitHub repository](https://github.com/xpmethod/making-knowing) containing several manuscript pages and field notes along with mock-ups for manuscript and field notebook pages.
