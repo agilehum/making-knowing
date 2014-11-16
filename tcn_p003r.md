@@ -107,6 +107,6 @@ c2b: |
     poulsiere. Le vernis de mastic ne soubstient point la pluye mays bien celui d’huile et rousine. </note>
 ---
 
-The manuscript sources are being pulled from <https://github.com/xpmethod/making-knowing/tree/gh-pages/_manuscripts>. Note that the transcription is assembled dynamically using TEI, YAML, and CSS.
+The manuscript sources are being pulled from <https://raw.githubusercontent.com/xpmethod/making-knowing/gh-pages/tcn_p003r.md>. Note that the transcription is assembled dynamically using TEI, YAML, and CSS.
 
 [original](manuscript.html) \| [transcription](tcn_p003r.html)
