@@ -1,6 +1,6 @@
 ---
 layout: manuscript
-image: p003r-HD.jpg
+image: p003r_HD.jpg
 title: original
 ---
 
