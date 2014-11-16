@@ -1,77 +1,81 @@
 <!doctype html>
 <html class="no-js" lang="en">
-  <head>
+<head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Making & Knowing Prototype</title>
     <link rel="stylesheet" href="{{site.url}}public/css/foundation.css" />
-  </head>
-  <body>
+</head>
+
+<body>
+<div class="row">
+<div class="large-12 columns">
+    <h1>
+        <a href="{{ site.url }}" style="text-decoration: none; color: black;">
+        Making & Knowing Prototype</a>
+    </h1>
+    <a href="manuscript.html" class="small radius button">Manuscript</a>
+    <a href="field-notes.html" class="small radius button">Field Notebook</a>
+</div>
+</div>
+
+<!-- INFO -->
+<div class="row">
+<div class="large-12 columns">
+        {{ content }}
+</div>
+</div>
     
-    <!-- BUTTONS -->
-    <div class="row">
+<!-- MANUSCRIPT 1 -->
+<!-- everything on the left goes here -->
+<div class="row">
+    <div class="large-3 columns">
+        <div class="panel" style="padding: .5em;" >
+            <font style="font-size: .6em;">{{ page.c1a }}</font>
+        </div>
+        <div class="panel">
+            <font style="font-size: .6em;">{{ page.left-note-c2a }}</font>
+        </div>
+    </div>
+    
+<!-- everything on the right goes here -->
+    <div class="large-9 columns">
+        <div class="row">
+            <div class="large-6 columns">
+                <div class="panel">
+                    <font style="font-size: .6em;">{{ page.c1c }}</font></hr>
+                    <h2>{{ page.a1 }}</h2></hr>
+                    <center><h2>+</h2></center>
+                </div>
+            </div>
+            <div class="large-6 columns">
+                <div class="panel">
+                    <font style="font-size: .6em;">{{ page.c1d }}</font>
+                </div>
+            </div>
+        </div>
+        <div class="panel">
+            {{ page.b1 }}
+        </div>
+        <div class="panel">
+           <h2>{{ page.a2 }}</h2></hr>
+            {{ page.b2 }}
+        </div>
+        <div class="panel">
+           <h2>{{ page.a3 }}</h2></hr>
+            {{ page.b3 }}
+        </div>
+    </div>
+</div>
+
+<!-- everything in the footer goes here -->
+<div class="row">
     <div class="large-12 columns">
-        <h1><a href="{{ site.url }}" style="text-decoration: none; color: black;">Making & Knowing Prototype</a></h1>
-        <a href="manuscript.html" class="small radius button">Manuscript</a>
-        <a href="field-notes.html" class="small radius button">Field Notebook</a>
-    </div>
-    </div>
-
-    <!-- INFO -->
-    <div class="row">
-      <div class="large-12 columns">
-          <div class="panel">
-            {{ content }}
-          </div>
-      </div>
-    </div>
-    
-    <!-- MANUSCRIPT 1 -->
-    <!-- everything on the left goes here -->
-    <div class="row">
-        <div class="large-3 columns">
-            <div class="panel">
-                <font style="font-size: .6em;">{{ page.left-note-1 }}</font>
-            </div>
-            <div class="panel">
-               left note2
-            </div>
-        </div>
-        
-    <!-- everything on the right goes here -->
-        <div class="large-9 columns">
-            <div class="row">
-                <div class="large-6 columns">
-                    <div class="panel">
-                        panel 1.1
-                    </div>
-                </div>
-                <div class="large-6 columns">
-                    <div class="panel">
-                        panel 1.2
-                    </div>
-                </div>
-            </div>
-            <div class="panel">
-                panel 2
-            </div>
-            <div class="panel">
-                panel 3
-            </div>
-            <div class="panel">
-                panel 4
-            </div>
+        <div class="panel">
+            {{ page.c2b }}
         </div>
     </div>
-
-    <!-- everything in the footer goes here -->
-    <div class="row">
-        <div class="large-12 columns">
-            <div class="panel">
-                footer stuff goes here
-            </div>
-        </div>
-    </div>
+</div>
 
 </body>
 </html>

@@ -5,7 +5,7 @@ description: "p003r"
 modified: 2014-11-15
 tags: [cats]
 comments: false
-left-note-1: |
+c1a: |
     La colophonie nest aultre chose que<br>
     rousine recuite Pour bien la faire<br>
     Ayes un pot plombe & fais fondre la<br>
@@ -36,27 +36,21 @@ left-note-1: |
     et plus belle & si tu prenois<br>
     la seule larme du mastic<br>
     tant mieulx seroit mais<br>
-    il seroit trop long
-left-note-2: |
+    il seroit trop long<br>
     soufre & vermeillon<br>
     faict le mesme effect
-notes-top:
-- position: 1
-  note: |
+c1c: |
     Le coral faict desmail de gueule endure la lime et le polissem{ent}
-notes-right:
-- position: 1
-  note: |
+c1d: |
     Il se faict co{mm}e le ciment qui est<br>
     plus fort mesle de verre (que de) <br>
     pile que de brique Ainsy on y<br>
     mesle avecq le vermeillon de lesmail<br>
     de gueule qui est rouge en corps bien<br>
     pile Ainsy de toutes couleurs desmails
-main-text:
-- position: 1
-  title: Coral contrefaict
-  text: |
+a1: |
+    Coral contrefaict
+b1: |
     Il fault premierement faire les branches de boys ou<br>
     prendre une branche despine bisarre puys fondre une<br>
     lb. de poix resine claire de la plus belle et y mectre<br>
@@ -67,9 +61,8 @@ main-text:
     peur que le feu ne sy prenne Apres trempe en tournoya{n}t <br>
     tes branches dedans & sil y restoit quelque filament<br>
     tourne la branche sur la chaleur du charbon<br>
-- position: 2
-  title: Vernis pour tableaulx
-  text: |
+a2: Vernis pour tableaulx
+b2: |
     P{rendre} une lb. de tourmentine de venise & la faire chaufer<br>
     dans un pot jusques a ce quelle fremisse et mectre dedans<br>
     demy lb. dhuile de tormentine de la plus blanche que tu<br>
@@ -84,9 +77,8 @@ main-text:
     les couleurs ne jaulnir Et seiche a lombre & au soleil<br>
     & du jour au lendemain Et aussy bien en hiver quen este<br>
     il se vend communem{ent} quinze sols la lb.<br>
-- position: 3
-  title: Gros vernis pour le plancher
-  text: |
+a3: Gros vernis pour le plancher
+b3: |
     Il y a du vernis qui est long a seicher & degoute plus de deux<br>
     moys apres quil a este aplique aulx planchers Mais<br>
     cestuy cy ne degoute poinct comme celuy du temps passe qui estoit<br>
@@ -94,7 +86,25 @@ main-text:
     degraisser & avecq du bled Et cestuy cy jaulnissoict & rendoit<br>
     verdastre la couleur bleue des tableaulx Cestuy se faict<br>
     comme laultre horsmis quon mect grosse tourmentine commune<br>
-
+left-note-c2a: |
+    il fault un peu plus<lb/>
+    de tourmentine que<lb/>
+    d’huile de tourmentine<lb/>
+    affin de donner corps<lb/>
+    au vernis lequel se<lb/>
+    doibt coucher avecq<lb/>
+    le doigt affin de<lb/>
+    l’estendre plus delié<lb/>
+    et moings espés car<lb/>
+    quand il est espés  il<lb/>
+    jaulnist et grippe.<lb/>
+    On ne vernist pas<lb/>
+    pour faire luire les<lb/>
+    tableaulx car cela<lb/>
+    ne fait qu’oster leur jour.</note>
+c2b: |
+    Mais c’est pour faire rehaulser les couleurs qui sont imbeues et les garder de la<lb/>
+    poulsiere. Le vernis de mastic ne soubstient point la pluye mays bien celui d’huile et rousine. </note>
 ---
 
 The manuscript sources are being pulled from <https://github.com/xpmethod/making-knowing/tree/gh-pages/_manuscripts>. Note that the transcription is assembled dynamically using TEI, YAML, and CSS.
