@@ -11,7 +11,7 @@ Here are some sites that I referred to in establishing what Rosehips are and als
 - <http://wildandslow.com/wp-content/uploads/2011/03/WILD_ROSE_HIP_FINAL2.pdf>
 - <http://thedirtfarmer.hubpages.com/hub/Eat-Your-Rose-Hips-Theyre-Good-for-You>
 - <http://www.wikihow.com/Use-Rosehips-in-Cookery>
-- <http://www.backwoodshome.com/articles2/butler95.html
+- <http://www.backwoodshome.com/articles2/butler95.html>
 - <http://www.gardeningblog.net/how-to-grow/rose-hips>
 
 ### 9/3/14 - Boyd - Hippes 
