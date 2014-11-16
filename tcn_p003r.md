@@ -5,11 +5,7 @@ description: "p003r"
 modified: 2014-11-15
 tags: [cats]
 comments: false
-image:
- manuscript: p003r_HD.jpg
-notes-left:
-- position: 1
-  note: |
+left-note-1: |
     La colophonie nest aultre chose que<br>
     rousine recuite Pour bien la faire<br>
     Ayes un pot plombe & fais fondre la<br>
@@ -41,8 +37,7 @@ notes-left:
     la seule larme du mastic<br>
     tant mieulx seroit mais<br>
     il seroit trop long
-- position: 2
-  note: |
+left-note-2: |
     soufre & vermeillon<br>
     faict le mesme effect
 notes-top:
