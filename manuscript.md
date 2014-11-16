@@ -4,6 +4,6 @@ image: p003r_HD.jpg
 title: original
 ---
 
-The manuscript sources are being pulled from <https://github.com/xpmethod/making-knowing/tree/gh-pages/_manuscripts>. Note that the transcriptions and translation are assembled dynamically using TEI, YAML meta data, and CSS grid layouts.
+The manuscript sources are being pulled from <https://github.com/xpmethod/making-knowing/tree/gh-pages/_manuscripts>. Note that the transcription is assembled dynamically using TEI, YAML, and CSS.
 
-[original]() \| [transcription]() \| [modern-french]() \| [english]()
+[original](manuscript.html) \| [transcription](tcn_p003r.html)

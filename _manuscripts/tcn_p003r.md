@@ -1,4 +1,8 @@
-﻿http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f11.image
+﻿---
+layout: manuscript
+title: transcription
+---
+http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f11.image
 
 
 <title id="p003r_a1">Coral contrefaict</title>
